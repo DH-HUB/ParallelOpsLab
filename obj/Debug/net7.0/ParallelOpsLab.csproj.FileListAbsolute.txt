@@ -1,0 +1,15 @@
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\ParallelOpsLab\bin\Debug\net7.0\ParallelOpsLab.exe
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\ParallelOpsLab\bin\Debug\net7.0\ParallelOpsLab.deps.json
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\ParallelOpsLab\bin\Debug\net7.0\ParallelOpsLab.runtimeconfig.json
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\ParallelOpsLab\bin\Debug\net7.0\ParallelOpsLab.dll
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\ParallelOpsLab\bin\Debug\net7.0\ParallelOpsLab.pdb
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\ParallelOpsLab\obj\Debug\net7.0\ParallelOpsLab.csproj.AssemblyReference.cache
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\ParallelOpsLab\obj\Debug\net7.0\ParallelOpsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\ParallelOpsLab\obj\Debug\net7.0\ParallelOpsLab.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\ParallelOpsLab\obj\Debug\net7.0\ParallelOpsLab.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\ParallelOpsLab\obj\Debug\net7.0\ParallelOpsLab.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\ParallelOpsLab\obj\Debug\net7.0\ParallelOpsLab.dll
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\ParallelOpsLab\obj\Debug\net7.0\refint\ParallelOpsLab.dll
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\ParallelOpsLab\obj\Debug\net7.0\ParallelOpsLab.pdb
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\ParallelOpsLab\obj\Debug\net7.0\ParallelOpsLab.genruntimeconfig.cache
+C:\Users\elian\OneDrive\Documents\Bureau\coursMns\projetCedricC\ParallelOpsLab\obj\Debug\net7.0\ref\ParallelOpsLab.dll
